@@ -14,3 +14,4 @@ CHD
 
 There where missing data values in the BMI attribute, so I had to use simple linear regression to fill those data values.
 Then I used three different values of K to determine which model was best. 
+
